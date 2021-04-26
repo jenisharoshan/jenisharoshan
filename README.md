@@ -3,8 +3,6 @@
 <!--
 **jenisharoshan/jenisharoshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on developing my technical skills
 - 🌱 I’m currently learning TensorFLow and AWS
 - 💬 Ask me about front-end development
